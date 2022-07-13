@@ -3,8 +3,8 @@
     padding: 0px;
     
 }
-body {
-    background-image: url(./img/3.jpg);
+section {
+    background-color: black;
     background-size: cover;
     position:relative;
 }
